@@ -4,8 +4,6 @@
 
 A simple form interface application made with Angular. 
 
-![alt text](src/assets/screenshot/preview.gif?raw=true)
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
 ## Installation
